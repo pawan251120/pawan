@@ -6,5 +6,3 @@ void main()
 
 
 printf("Hii World");
-
-//printf("Hello World");
